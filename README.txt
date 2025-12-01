@@ -29,20 +29,6 @@ No JavaScript or backend is included, keeping the project lightweight and fast.
 ✔ Image placeholders ready to be replaced with real assets
 ✔ Designed for easy scaling — new projects and skills can be added anytime
 ✔ Social links + CV button supported (placeholders included)
-🔗 Placeholders to Update
-Before publishing the portfolio, replace the following with real links:
-Purpose	Placeholder
-Download CV	CV_LINK_HERE
-GitHub profile	GITHUB_PROFILE_LINK_HERE
-LinkedIn profile	LINKEDIN_PROFILE_LINK_HERE
-Instagram profile	INSTAGRAM_PROFILE_LINK_HERE
-RFID Project GitHub	RFID_GITHUB_LINK_HERE
-Water Level Monitoring GitHub	WATER_LEVEL_GITHUB_LINK_HERE
-Also replace placeholder images located in the /assets/ folder:
-profile-devyansh.png
-rfid-attendance.png
-water-level.png
-Skill/tool icons if needed
 📬 Contact
 If you wish to connect or collaborate, feel free to reach out!
 📧 Email: devyansh.suri07@gmail.com
